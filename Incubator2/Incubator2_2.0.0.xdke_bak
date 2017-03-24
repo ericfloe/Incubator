@@ -1,0 +1,56 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1460306740937,
+        "modified": 1460306740937,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "Incubator2.xdk": {
+        "previousModTime": 1460306741133,
+        "modified": 1460306741133,
+        "seen": true,
+        "name": "Incubator2.xdk"
+      },
+      "Incubator2.xdke": {
+        "previousModTime": 1460852503525,
+        "modified": 1460852503525,
+        "seen": true,
+        "name": "Incubator2.xdke"
+      },
+      "main.js": {
+        "previousModTime": 1460852497673,
+        "modified": 1460852497673,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1460306740938,
+        "modified": 1460306740938,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1460306740938,
+        "modified": 1460306740938,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1460306741110,
+        "modified": 1460306741110,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}

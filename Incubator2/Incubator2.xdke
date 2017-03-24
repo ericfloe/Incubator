@@ -1,0 +1,99 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1460306740937,
+        "modified": 1460306740937,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "Incubator2.xdk": {
+        "previousModTime": 1465862635875,
+        "modified": 1465862635875,
+        "seen": true,
+        "name": "Incubator2.xdk"
+      },
+      "Incubator2.xdke": {
+        "previousModTime": 1490216793681,
+        "modified": 1490216793681,
+        "seen": true,
+        "name": "Incubator2.xdke"
+      },
+      "main.js": {
+        "previousModTime": 1466877519894,
+        "modified": 1466877519894,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1460306740938,
+        "modified": 1460306740938,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1460306740938,
+        "modified": 1460306740938,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1460306741110,
+        "modified": 1460306741110,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "Incubator2_2.0.0.xdk_bak": {
+        "previousModTime": 1465862508344,
+        "modified": 1465862508344,
+        "seen": true,
+        "name": "Incubator2_2.0.0.xdk_bak"
+      },
+      "Incubator2_2.0.0.xdke_bak": {
+        "previousModTime": 1465862508345,
+        "modified": 1465862508345,
+        "seen": true,
+        "name": "Incubator2_2.0.0.xdke_bak"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1465862510962,
+        "modified": 1465862510962,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      }
+    },
+    "boardFileStatus": {
+      "icon.png": {
+        "previousModTime": 1490216803344
+      },
+      "main.js": {
+        "previousModTime": 1490216803344
+      },
+      "package.json": {
+        "previousModTime": 1490216803344
+      },
+      "README.md": {
+        "previousModTime": 1490216803344
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1490216803344
+      },
+      "Incubator2_2.0.0.xdk_bak": {
+        "previousModTime": 1490216803344
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1490216803344
+      }
+    }
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  }
+}

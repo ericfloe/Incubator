@@ -1,0 +1,84 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "IncubatorTurner.xdk": {
+        "previousModTime": 1465934501305,
+        "modified": 1465934501305,
+        "seen": true,
+        "name": "IncubatorTurner.xdk"
+      },
+      "IncubatorTurner.xdke": {
+        "previousModTime": 1466888510020,
+        "modified": 1466888510020,
+        "seen": true,
+        "name": "IncubatorTurner.xdke"
+      },
+      "README.md": {
+        "previousModTime": 1465934460052,
+        "modified": 1465934460052,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1465934460052,
+        "modified": 1465934460052,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1466545652999,
+        "modified": 1466545652999,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1465934460052,
+        "modified": 1465934460052,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1465934460628,
+        "modified": 1465934460628,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1465934460323,
+        "modified": 1465934460323,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "README.md": {
+        "previousModTime": 1466888516555
+      },
+      "icon.png": {
+        "previousModTime": 1466888516555
+      },
+      "main.js": {
+        "previousModTime": 1466888516555
+      },
+      "package.json": {
+        "previousModTime": 1466888516555
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1466888516555
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1466888516555
+      }
+    }
+  }
+}
